@@ -1,6 +1,4 @@
-### Hi there <img src="https://user-images.githubusercontent.com/21170527/104812815-d4b8d900-583f-11eb-8f87-55ae70f2bba5.gif" width="55" height="40">
-
-<img src="https://user-images.githubusercontent.com/21170527/104829024-8c82d080-58aa-11eb-8d42-8f059dba17f1.gif" width="1200" height="350">
+### Hi there <img src="https://user-images.githubusercontent.com/21170527/104812815-d4b8d900-583f-11eb-8f87-55ae70f2bba5.gif" width="55" height="40"><img src="https://user-images.githubusercontent.com/21170527/104829151-e59f3400-58ab-11eb-8372-3fc5163a80a7.gif" width="55" height="40"><img src="https://user-images.githubusercontent.com/21170527/104829147-df10bc80-58ab-11eb-8c18-0545aa0fc075.gif" width="55" height="40">
 
 
 <!--**taqinasirr/taqinasirr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
